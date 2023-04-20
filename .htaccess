@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^account/login$ /account/login.php [L]
+RewriteRule ^account/register$ /account/register.php [L]
+RewriteRule ^account/password/forget$ /account/password/forget.php [L]
+RewriteRule ^account/password/reset$ /account/password/reset.php [L]
