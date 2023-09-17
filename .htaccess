@@ -1,5 +1,10 @@
 RewriteEngine On
-RewriteRule ^account/login$ /account/login.php [L]
-RewriteRule ^account/register$ /account/register.php [L]
-RewriteRule ^account/password/forget$ /account/password/forget.php [L]
-RewriteRule ^account/password/reset$ /account/password/reset.php [L]
+RewriteRule ^pricing/$ /pricing.php [L]
+RewriteRule ^support/contact$ /support/contact.php [L]
+RewriteRule ^support/faq$ /support/faq.php [L]
+RewriteRule ^aboutus/$ /aboutus.php [L]
+
+RewriteRule ^imprint/$ /legal/imprint.php
+RewriteRule ^privacy-policy/$ /legal/privacypolicy.php
+RewriteRule ^terms-of-use/$ /legal/termsofuse.php
+RewriteRule ^terms-of-service/$ /legal/termsofservice.php
