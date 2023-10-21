@@ -24,13 +24,15 @@
 
     </ul>
     <ul class="menu">
-        <li class="menu__item"><a class="menu__link animation" href="/imprint"><?php echo "impressum"; ?></a></li>
-        <li class="menu__item"><a class="menu__link animation" href="/terms-of-service"><?php echo "agb"; ?></a></li>
-        <li class="menu__item"><a class="menu__link animation" href="/privacy-policy"><?php echo "datenschutz"; ?></a></li>
+        <li class="menu__item"><a class="menu__link animation" href="/imprint/"><?php echo "impressum"; ?></a></li>
+        <li class="menu__item"><a class="menu__link animation" href="/terms-of-service/"><?php echo "agb"; ?></a></li>
+        <li class="menu__item"><a class="menu__link animation" href="/privacy-policy/"><?php echo "datenschutz"; ?></a></li>
         <li class="menu__item"><a class="menu__link animation" href="https://stats.uptimerobot.com/W9VvVi6JJA"><?php echo "status"; ?></a></li>
     </ul>
     <p>Copyright &copy; <?php echo date("Y"); ?> BlueNet-Hosting. <?php echo "Alle Rechte vorbehalten."; ?></p>
 </footer>
+
+<script type="text/javascript" src="/assets/script/smooth-scroll.js"></script>
 <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 <script type="text/javascript" src="/assets/script/package.js"></script>

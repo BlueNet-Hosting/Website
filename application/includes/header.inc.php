@@ -17,9 +17,9 @@
                 </a>
             </li>
             <li><a class="animation" href="/"><?php echo "start"; ?></a></li>
-            <li><a class="animation" href="/pricing"><?php echo "preise"; ?></a></li>
-            <li><a class="animation" href="/support/faq"><?php echo "faq"; ?></a></li>
-            <li><a class="animation" href="/support/contact"><?php echo "kontakt"; ?></a></li>
+            <li><a class="animation" href="/pricing/"><?php echo "preise"; ?></a></li>
+            <li><a class="animation" href="/faq/"><?php echo "faq"; ?></a></li>
+            <li><a class="animation" href="/contact/"><?php echo "kontakt"; ?></a></li>
             <li>
                 <div class="btn btn-three">
                     <span><a href="<?php echo CONTROL_PANEL; ?>"><?php echo "anmelden"; ?></a></span>

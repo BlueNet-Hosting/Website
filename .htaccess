@@ -1,7 +1,7 @@
 RewriteEngine On
 RewriteRule ^pricing/$ /pricing.php [L]
-RewriteRule ^support/contact$ /support/contact.php [L]
-RewriteRule ^support/faq$ /support/faq.php [L]
+RewriteRule ^contact$ /support/contact.php [L]
+RewriteRule ^faq$ /support/faq.php [L]
 RewriteRule ^aboutus/$ /aboutus.php [L]
 
 RewriteRule ^imprint/$ /legal/imprint.php
